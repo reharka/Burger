@@ -1,0 +1,22 @@
+body {
+	background-color: rgb(199, 243, 245);
+	margin-top: 20px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+	color: rgb(72, 72, 228);
+}
+
+.btn-default {
+	color: rgb(72, 72, 228);
+}
+
+#top-bar {
+	font-family: 'Righteous', cursive;
+}
+
+img {
+	width: 200px;
+	height: auto;
+}
